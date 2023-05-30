@@ -76,7 +76,7 @@ internal class Program
 
         // Арксинус
 
-        Console.WriteLine("Арксинус x: " + Trigonometry.ArcSin(30));
+        Console.WriteLine("Арксинус x: " + Trigonometry.ArcSin(-1));
 
     }
 }
